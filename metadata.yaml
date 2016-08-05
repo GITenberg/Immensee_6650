@@ -1,0 +1,27 @@
+_repo: Immensee_6650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Storm, Theodor
+    alias: Storm, Hans Theodor Woldsen
+    birthdate: 1817
+    deathdate: 1888
+    gutenberg_agent_id: '2128'
+    url: http://www.gutenberg.org/2009/agents/2128
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Storm
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany, Northern -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PT'
+- GITenberg
+title: Immensee
+url: http://www.gutenberg.org/ebooks/6650
